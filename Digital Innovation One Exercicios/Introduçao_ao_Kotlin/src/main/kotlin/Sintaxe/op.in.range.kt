@@ -1,4 +1,4 @@
-package Nullability
+package Sintaxe
 //se valor está presente em uma lista ou uma faixa(range) de valores;
 //Range cria um intervalo de valores que inicia no primeiro parâmetro e acaba no segundo.
 //contém in

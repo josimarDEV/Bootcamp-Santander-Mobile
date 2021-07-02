@@ -1,4 +1,4 @@
-package Nullability
+package Sintaxe
 
 fun main() {
     val d = 120
