@@ -3,7 +3,7 @@ package one.digitalinnovation.collections
 fun main() {
     val joao = funcionario("João", 2000.0, "CLT")             //esta chamando a clss funcionario
     val pedro = funcionario("Pedro", 1500.0, "PJ")
-    val maria = funcionario("Mario", 4000.0, "CLT")
+    val maria = funcionario("Maria", 4000.0, "CLT")
 
     val funcionarios = listOf(joao, pedro, maria)     //está listando as pessoas de funcionario, para mostrar seus elementos contido dentro da class funcionario
      funcionarios.forEach { println(it) }
